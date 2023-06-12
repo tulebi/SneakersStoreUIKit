@@ -1,0 +1,6 @@
+framework module Pods_SneakersStroreUIKit {
+  umbrella header "Pods-SneakersStroreUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
